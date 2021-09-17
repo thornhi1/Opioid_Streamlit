@@ -236,4 +236,4 @@ if calculate:
         else:
             pass
 
-        st.write('You printed last else clause.')
+        st.write('You prescribed multiple doses and frequencies.')
